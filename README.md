@@ -1,3 +1,3 @@
 # Expense-Tracker
 
-link -> https://Shubhangi22.github.io/Expense-Tracker/
+link -> https://5hubhangi.github.io/expense_tracker/
